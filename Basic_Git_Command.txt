@@ -1,0 +1,9 @@
+| Command |
+1- Create new repository.
+2- Copy the repository link
+3- Open cmd from select folder/location.
+4- |git clone "paste repo.link"|, press enter.
+5- Open repo. folder to save file below .git folder.
+6- |git add .|, press enter.
+7- |git commit -m "#message"|, press enter.
+8- |git push|, press enter.
